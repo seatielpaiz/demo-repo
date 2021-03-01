@@ -1,3 +1,3 @@
-class Nameclass {
+class ClassName {
   constructor() {}
 }
